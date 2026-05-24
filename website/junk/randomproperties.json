@@ -1,0 +1,328 @@
+[
+    {
+      "id": "11124-E-57th-Ter,-Raytown,-MO-64133",
+      "formattedAddress": "11124 E 57th Ter, Raytown, MO 64133",
+      "addressLine1": "11124 E 57th Ter",
+      "addressLine2": null,
+      "city": "Raytown",
+      "state": "MO",
+      "zipCode": "64133",
+      "county": "Jackson",
+      "latitude": 39.018191,
+      "longitude": -94.449179,
+      "propertyType": "Single Family",
+      "bedrooms": 2,
+      "bathrooms": 1.5,
+      "squareFootage": 881,
+      "lotSize": 7405,
+      "yearBuilt": 1947,
+      "assessorID": "32-740-17-21",
+      "legalDescription": "DAVIS BLUE RDG ADD E 5' OF LOT 23 & ALL OF LOT 24 BLK 12",
+      "subdivision": "DAVIS BLUE RDG ADD",
+      "lastSaleDate": "2014-05-30T00:00:00.000Z",
+      "features": {
+        "architectureType": "Conventional",
+        "cooling": true,
+        "coolingType": "Central",
+        "exteriorType": "Vinyl",
+        "floorCount": 1,
+        "foundationType": "Block",
+        "garage": true,
+        "garageType": "Attached",
+        "heating": true,
+        "heatingType": "Forced Air",
+        "roofType": "Composition Shingle",
+        "unitCount": 1
+      },
+      "taxAssessments": {
+        "2023": {
+          "year": 2023,
+          "value": 18679,
+          "land": 2810,
+          "improvements": 15869
+        }
+      },
+      "propertyTaxes": {
+        "2023": {
+          "year": 2023,
+          "total": 1674
+        }
+      },
+      "history": {
+        "2014-05-30": {
+          "event": "Sale",
+          "date": "2014-05-30T00:00:00.000Z"
+        }
+      },
+      "owner": {
+        "names": [
+          "Celestino G Guevara",
+          "A S Sanchez Ma"
+        ],
+        "type": "Individual",
+        "mailingAddress": {
+          "id": "11124-E-57th-Ter,-Raytown,-MO-64133",
+          "formattedAddress": "11124 E 57th Ter, Raytown, MO 64133",
+          "addressLine1": "11124 E 57th Ter",
+          "addressLine2": null,
+          "city": "Raytown",
+          "state": "MO",
+          "zipCode": "64133"
+        }
+      },
+      "ownerOccupied": true
+    },
+    {
+      "id": "11711-Two-Creeks-Rd-NE,-Bainbridge-Island,-WA-98110",
+      "formattedAddress": "11711 Two Creeks Rd NE, Bainbridge Island, WA 98110",
+      "addressLine1": "11711 Two Creeks Rd NE",
+      "addressLine2": null,
+      "city": "Bainbridge Island",
+      "state": "WA",
+      "zipCode": "98110",
+      "county": "Kitsap",
+      "latitude": 47.671717,
+      "longitude": -122.556593,
+      "propertyType": "Single Family",
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "squareFootage": 2154,
+      "lotSize": 85378,
+      "yearBuilt": 1892,
+      "assessorID": "092502-3-004-2006",
+      "legalDescription": "PARCEL 1: TRACT 1 OF SURVEYS, RECORDED UNDER VOLUME 15 OF SURVEYS, PAGE 31, RECORDS OF KITSAP COUNTY, BEING A PORTION OF THE",
+      "zoning": "CITY",
+      "lastSaleDate": "2021-07-12T00:00:00.000Z",
+      "lastSalePrice": 2500000,
+      "features": {
+        "architectureType": "Rambler",
+        "cooling": true,
+        "coolingType": "Evaporative",
+        "exteriorType": "Wood Shingle",
+        "fireplace": true,
+        "floorCount": 1,
+        "garage": true,
+        "garageType": "Detached",
+        "heating": true,
+        "heatingType": "Heat Pump",
+        "roofType": "Composition Shingle",
+        "unitCount": 1,
+        "viewType": "Fair"
+      },
+      "taxAssessments": {
+        "2024": {
+          "year": 2024,
+          "value": 2085780,
+          "land": 836320,
+          "improvements": 1249460
+        }
+      },
+      "propertyTaxes": {
+        "2024": {
+          "year": 2024,
+          "total": 15695
+        }
+      },
+      "owner": {
+        "names": [
+          "Sophie Florence Le Guelinel De Lignerolles"
+        ],
+        "mailingAddress": {
+          "id": "11711-Two-Creeks-Rd-NE,-Bainbridge-Island,-WA-98110",
+          "formattedAddress": "11711 Two Creeks Rd NE, Bainbridge Island, WA 98110",
+          "addressLine1": "11711 Two Creeks Rd NE",
+          "addressLine2": null,
+          "city": "Bainbridge Island",
+          "state": "WA",
+          "zipCode": "98110"
+        }
+      },
+      "ownerOccupied": true
+    },
+    {
+      "id": "5443-S-Ocean-Ct,-Salt-Lake-City,-UT-84123",
+      "formattedAddress": "5443 S Ocean Ct, Salt Lake City, UT 84123",
+      "addressLine1": "5443 S Ocean Ct",
+      "addressLine2": null,
+      "city": "Salt Lake City",
+      "state": "UT",
+      "zipCode": "84123",
+      "county": "Salt Lake",
+      "latitude": 40.652291,
+      "longitude": -111.931509,
+      "propertyType": "Condo",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "squareFootage": 1106,
+      "lotSize": 436,
+      "yearBuilt": 1987,
+      "assessorID": "21-15-232-002",
+      "legalDescription": "UNIT 110, BLDG 0, CROSSPOINTE CONDMN PH 5 PART 1 0.559782% INT 5946-940, 6063-1320, 6050-56 6183-1822 6239-2269 6439-1366",
+      "subdivision": "CROSSPOINTE",
+      "zoning": "8205",
+      "lastSaleDate": "2024-09-27T00:00:00.000Z",
+      "features": {
+        "architectureType": "Condo / Apartment",
+        "cooling": true,
+        "coolingType": "Commercial",
+        "fireplace": true,
+        "floorCount": 1,
+        "heating": true,
+        "heatingType": "Central",
+        "roomCount": 6
+      },
+      "taxAssessments": {
+        "2022": {
+          "year": 2022,
+          "value": 186285,
+          "land": 55880,
+          "improvements": 130405
+        },
+        "2023": {
+          "year": 2023,
+          "value": 167805,
+          "land": 50325,
+          "improvements": 117480
+        },
+        "2024": {
+          "year": 2024,
+          "value": 176715,
+          "land": 53020,
+          "improvements": 123695
+        }
+      },
+      "propertyTaxes": {
+        "2022": {
+          "year": 2022,
+          "total": 2087
+        },
+        "2023": {
+          "year": 2023,
+          "total": 1997
+        }
+      },
+      "history": {
+        "2018-03-12": {
+          "event": "Sale",
+          "date": "2018-03-12T00:00:00.000Z"
+        },
+        "2024-09-27": {
+          "event": "Sale",
+          "date": "2024-09-27T00:00:00.000Z"
+        }
+      },
+      "owner": {
+        "names": [
+          "Skyler J Henderson"
+        ],
+        "type": "Individual",
+        "mailingAddress": {
+          "id": "5443-S-Ocean-Ct,-Taylorsville,-UT-84123",
+          "formattedAddress": "5443 S Ocean Ct, Taylorsville, UT 84123",
+          "addressLine1": "5443 S Ocean Ct",
+          "addressLine2": null,
+          "city": "Taylorsville",
+          "state": "UT",
+          "zipCode": "84123"
+        }
+      },
+      "ownerOccupied": true
+    },
+    {
+      "id": "4180-Cleveland-Ave,-Unit-12,-San-Diego,-CA-92103",
+      "formattedAddress": "4180 Cleveland Ave, Unit 12, San Diego, CA 92103",
+      "addressLine1": "4180 Cleveland Ave",
+      "addressLine2": "Unit 12",
+      "city": "San Diego",
+      "state": "CA",
+      "zipCode": "92103",
+      "county": "San Diego",
+      "latitude": 32.753186,
+      "longitude": -117.150057,
+      "propertyType": "Condo",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "squareFootage": 556,
+      "lotSize": 14871,
+      "yearBuilt": 1979,
+      "assessorID": "445-460-27-12",
+      "legalDescription": "LP0008PG036 BLK 139*US 12PER DOC78-498967&UND INT IN LOTS 45&46&POR LOT47 IN",
+      "subdivision": "UNIVERSITY HEIGHTS",
+      "zoning": "R-1:SINGLE FAM-RES",
+      "lastSaleDate": "2022-06-27T00:00:00.000Z",
+      "lastSalePrice": 454500,
+      "features": {
+        "architectureType": "Condo / Apartment",
+        "unitCount": 1
+      },
+      "taxAssessments": {
+        "2022": {
+          "year": 2022,
+          "value": 382499,
+          "land": 188756,
+          "improvements": 193743
+        },
+        "2023": {
+          "year": 2023,
+          "value": 426000,
+          "land": 210000,
+          "improvements": 216000
+        },
+        "2024": {
+          "year": 2024,
+          "value": 461000,
+          "land": 227000,
+          "improvements": 234000
+        }
+      },
+      "propertyTaxes": {
+        "2022": {
+          "year": 2022,
+          "total": 4683
+        },
+        "2023": {
+          "year": 2023,
+          "total": 5250
+        },
+        "2024": {
+          "year": 2024,
+          "total": 5693
+        }
+      },
+      "history": {
+        "2022-06-27": {
+          "event": "Sale",
+          "date": "2022-06-27T00:00:00.000Z",
+          "price": 454500
+        }
+      },
+      "owner": {
+        "names": [
+          "Megan Houfek"
+        ],
+        "type": "Individual",
+        "mailingAddress": {
+          "id": "4180-Cleveland-Ave,-UNIT-12,-San-Diego,-CA-92103",
+          "formattedAddress": "4180 Cleveland Ave, UNIT 12, San Diego, CA 92103",
+          "addressLine1": "4180 Cleveland Ave",
+          "addressLine2": "UNIT 12",
+          "city": "San Diego",
+          "state": "CA",
+          "zipCode": "92103"
+        }
+      },
+      "ownerOccupied": true
+    },
+    {
+      "id": "18246-Grill-Rd,-Apt-B,-Doylestown,-OH-44230",
+      "formattedAddress": "18246 Grill Rd, Apt B, Doylestown, OH 44230",
+      "addressLine1": "18246 Grill Rd",
+      "addressLine2": "Apt B",
+      "city": "Doylestown",
+      "state": "OH",
+      "zipCode": "44230",
+      "county": "Wayne",
+      "latitude": 40.97146,
+      "longitude": -81.662332
+    }
+  ]
